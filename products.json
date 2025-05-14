@@ -1,0 +1,189 @@
+[
+    {
+        "Type": "EVLT",
+        "Product": "NeverTouch Procedure Kits",
+        "Brand": "NeverTouch",
+        "Supplier": "Angiodynamics",
+        "Preferred Item #": "H787114031015",
+        "Packaging": "Kits",
+        "Description": "aka \"\"Pizza Boxes\"\", 1 kit per procedure",
+        "MIN/MAX QTY": "",
+        "LINK": ""
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Sheaths",
+        "Brand": "-",
+        "Supplier": "Angiodynamics",
+        "Preferred Item #": "H787165100011",
+        "Packaging": "10/box",
+        "Description": "10.0cm sheath & dilator with hemostasis valve & sidearm - use these instead of Terumo kits",
+        "MIN/MAX QTY": "",
+        "LINK": ""
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Duraprep 26mL",
+        "Brand": "DuraPrep",
+        "Supplier": "Cardinal",
+        "Preferred Item #": "3M8630C",
+        "Packaging": "20/case",
+        "Description": "Surgical solution prep, self contained applicator",
+        "MIN/MAX QTY": "",
+        "LINK": "https://shop.cardinalhealth.ca/chc/duraprep-surgical-solution-07-iodine-povacrylex-74-isopropyl-alcohol "
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Shoe Covers",
+        "Brand": "Convertors",
+        "Supplier": "Cardinal",
+        "Preferred Item #": "A2852",
+        "Packaging": "100/box, 4 boxes/case",
+        "Description": "Skid resistant, nonwoven, for no-fluid setting",
+        "MIN/MAX QTY": "",
+        "LINK": "https://shop.cardinalhealth.ca/chc/convertors-shoe-cover-spunbonded-polypropylene-skid-resistant "
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Ringer's Lactate",
+        "Brand": "Baxter",
+        "Supplier": "Medi Mart",
+        "Preferred Item #": "533-JB2322P",
+        "Packaging": "30/case",
+        "Description": "Preferred vendor - cheaper than Cardinal and more reliable delivery",
+        "MIN/MAX QTY": "",
+        "LINK": "https://medimart.com/product/lactated-ringer-250ml-bag-for-injection-usp/"
+    },
+    {
+        "Type": "EVLT",
+        "Product": "6.5 Surgical Glove",
+        "Brand": "Protexis",
+        "Supplier": "Cardinal",
+        "Preferred Item #": "2D72PT65X",
+        "Packaging": "50 pairs/box, 4 boxes/case",
+        "Description": "Powder-free, interlocking beaded cuff, puncture resistant",
+        "MIN/MAX QTY": "",
+        "LINK": "https://shop.cardinalhealth.ca/chc/protexis-pi-surgical-gloves "
+    },
+    {
+        "Type": "EVLT",
+        "Product": "7.5 Surgical Glove",
+        "Brand": "Protexis",
+        "Supplier": "Cardinal",
+        "Preferred Item #": "2D72PT75X",
+        "Packaging": "50 pairs/box, 4 boxes/case",
+        "Description": "Powder-free, interlocking beaded cuff, puncture resistant",
+        "MIN/MAX QTY": "",
+        "LINK": "https://shop.cardinalhealth.ca/chc/protexis-pi-surgical-gloves "
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Surgical Packs",
+        "Brand": "Custom",
+        "Supplier": "Cardinal",
+        "Preferred Item #": "SCV30MNOVD",
+        "Packaging": "6 each/case",
+        "Description": "Custom cases",
+        "MIN/MAX QTY": "",
+        "LINK": "https://shop.cardinalhealth.ca/chc/pack-basic-vascular-oakvl-corp-order-cases-only "
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Leukoplast Bandage",
+        "Brand": "BSN Medical",
+        "Supplier": "Cardinal",
+        "Preferred Item #": "BSN7646012",
+        "Packaging": "50/box",
+        "Description": "4.5x5 cm bandage, adhesive dressing, non-woven",
+        "MIN/MAX QTY": "",
+        "LINK": "https://shop.cardinalhealth.ca/chc/leukoplast-strong-adhesive-dressing "
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Tensor Bandages 4\"\"",
+        "Brand": "Medline",
+        "Supplier": "Medi Mart",
+        "Preferred Item #": "320-MDS055004",
+        "Packaging": "50/case",
+        "Description": "Elastic tensor bandage, 4\"\"x5yards",
+        "MIN/MAX QTY": "",
+        "LINK": "https://medimart.com/product/elastic-tensor-bandage-w-clips-4x5yds/"
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Tensor Bandages 6\"\"",
+        "Brand": "Medline",
+        "Supplier": "Medi Mart",
+        "Preferred Item #": "320-MDS055006",
+        "Packaging": "50/case",
+        "Description": "Elastic tensor bandage, 6\"\"x5yards",
+        "MIN/MAX QTY": "",
+        "LINK": "https://medimart.com/product/elastic-tensor-bandage-w-clips-6x5yds/"
+    },
+    {
+        "Type": "EVLT",
+        "Product": "TUR Series",
+        "Brand": "Baxter",
+        "Supplier": "Cardinal",
+        "Preferred Item #": "JC4006P",
+        "Packaging": "24/case",
+        "Description": "Ratchet style clamp, spike, sterile steel pouch",
+        "MIN/MAX QTY": "",
+        "LINK": "https://shop.cardinalhealth.ca/chc/uromatic-tur-series-irrigation-set-l22-id-0195-tubing"
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Transpore Surgical Tape",
+        "Brand": "3M Canada",
+        "Supplier": "Medi Mart",
+        "Preferred Item #": "355-1527-1",
+        "Packaging": "12 rolls/box",
+        "Description": "1\"\" x 10 yards",
+        "MIN/MAX QTY": "",
+        "LINK": "https://medimart.com/product/transpore-surgical-tape-1-x-10-yard-clear-5/"
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Xylocaine 2% 50mL",
+        "Brand": "Inoca Health",
+        "Supplier": "Aspen/Inoca Health",
+        "Preferred Item #": "VR44565CA1/02302438",
+        "Packaging": "50mL vials",
+        "Description": "Xyloxaine 2% Plain MD 50mL, use this size across all sites",
+        "MIN/MAX QTY": "",
+        "LINK": ""
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Xylocaine 2% 50mL",
+        "Brand": "-",
+        "Supplier": "Andrew's Pharmacy",
+        "Preferred Item #": "",
+        "Packaging": "50mL vials",
+        "Description": "Backup - use Inoca first - Can order at Southmount Pharmacy in Stoney Creek as well ",
+        "MIN/MAX QTY": "",
+        "LINK": ""
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Mini Skin Marker",
+        "Brand": "Devon",
+        "Supplier": "Cardinal",
+        "Preferred Item #": "Z31146010",
+        "Packaging": "100/box, 2 boxes/case",
+        "Description": "For surgical marking on intact skin (for marking injection site)",
+        "MIN/MAX QTY": "",
+        "LINK": "https://shop.cardinalhealth.ca/chc/devon-mini-skin-marker-regular-tip "
+    },
+    {
+        "Type": "EVLT",
+        "Product": "Hypoallergenic Clear Tape",
+        "Brand": "Kendall",
+        "Supplier": "Cardinal",
+        "Preferred Item #": "Z8534C",
+        "Packaging": "12/box, 10 boxes/case",
+        "Description": "Easy to tear, for securing IV tubing & dressings",
+        "MIN/MAX QTY": "",
+        "LINK": "https://shop.cardinalhealth.ca/chc/kendall-hypoallergenic-clear-tape "
+    }
+]
