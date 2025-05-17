@@ -50,9 +50,10 @@ It is a simple system meant for internal use, not for public bookings.
 
 1. Clone the project from GitHub
 2. Run: composer install
-3. Create a .env file and set your database setting
-4. Run the migration: php artisan migrate
-5. Start the server: php artisan serve
+3. Create a new database -> fitness tracker
+4. Run php artisan key:generate
+5. Run the migration: php artisan migrate
+6. Start the server: php artisan serve
 
 ## Challenges and Learning
 Adding search and pagination without JavaScript or external libraries was a good learning experience. I used Laravel's query builder and pagination tools. I also made sure validation errors are clearly shown to users, which improved usability.
