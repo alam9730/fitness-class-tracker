@@ -9,14 +9,15 @@ class FitnessClass extends Model
 {
     use HasFactory;
 
-    protected $table = 'classes'; // explicitly map to the 'classes' table
+    protected $table = 'classes';
 
+    // Fields that can be filled using create() or update()
     protected $fillable = [
-        'name',
-        'description',
-        'instructor',
-        'datetime',
-        'duration',
-        'capacity'
+        'name',         // Class name
+        'description',  // Class description
+        'instructor',   // Instructor name
+        'datetime',     // Class date and time
+        'duration',     // Duration in minutes
+        'capacity'      // Max number of attendees
     ];
 }
